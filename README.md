@@ -1,4 +1,5 @@
-# pothole_detection
+# pothole_detection  (file is too big to share in github)
+colab link : (https://colab.research.google.com/drive/1of3y62FiRDC4ldTjxqsAzPUd7xTG4bOt?usp=sharing)
 # 🛣️ Pothole Detection using YOLOv8 Segmentation
 
 This project implements an AI-based solution for automatic pothole detection and segmentation using the **YOLOv8-nano segmentation model**. Developed during an internship at **IIT Guwahati, Signal Processing Lab**, the model is designed for real-time performance and practical deployment in road safety and infrastructure maintenance systems.
